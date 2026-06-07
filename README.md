@@ -31,6 +31,10 @@ pnpm build
 pnpm watch
 ```
 
+## 致谢
+
+基于 [酒馆助手 (Tavern Helper)](https://github.com/N0VI028/JS-Slash-Runner)，使用 [tavern_helper_template](https://github.com/StageDog/tavern_helper_template) 模板开发。
+
 ## 技术栈
 
 - TypeScript + Vue 3 + Pinia
