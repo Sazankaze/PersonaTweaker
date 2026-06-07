@@ -1,0 +1,19 @@
+node_modules/
+dist/
+
+# auto-generated type declarations
+auto-imports.d.ts
+auto-imports.zod.d.ts
+components.d.ts
+
+# built importable JSONs
+persona-tweaker*.json
+酒馆助手脚本*.json
+
+# editor & OS
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
